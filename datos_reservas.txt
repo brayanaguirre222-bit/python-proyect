@@ -1,0 +1,9 @@
+[
+    {
+        "nombre": "a",
+        "personas": 10,
+        "mesas_asignadas": 1,
+        "hora_inicio": 10,
+        "duracion": 1
+    }
+]
